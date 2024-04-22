@@ -29,20 +29,20 @@ Welcome to my JavaScript Quick Study Guide repository! In this repository, I've 
 
     - Word VS Keyword
     - var const let
-      -- The Diffrence
-      -- Window Object
-      -- Browser context api
-      -- Stack
-      -- Heap memory
-      -- Execution Context
-      -- lexical enviroment
+      - The Diffrence
+      - Window Object
+      - Browser context api
+      - Stack
+      - Heap memory
+      - Execution Context
+      - lexical enviroment
     - Hoisting
     - Types in JS
-      -- How to copy reference values
+      - How to copy reference values
     - conditionals
     - if else else-if
-      -- truthy vs falsy
-      -- switch
+      - truthy vs falsy
+      - switch
 
 ## Object-Oriented Principles
 

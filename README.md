@@ -23,7 +23,7 @@ Welcome to my JavaScript Quick Study Guide repository! In this repository, I've 
 
 ## JavaScript Crash Course
 
-- **Resource:** [Link to JavaScript Crash Course](#)
+- **Resource:** [[Link to JavaScript Crash Course](#)](https://www.youtube.com/watch?v=htznIeWKgg8)
 
 ## Object-Oriented Principles
 

@@ -23,11 +23,26 @@ Welcome to my JavaScript Quick Study Guide repository! In this repository, I've 
 
 ## JavaScript Crash Course
 
-- **Resource:** [[Link to JavaScript Crash Course](#)]  (https://www.youtube.com/watch?v=htznIeWKgg8)
+- **Resource:** (https://www.youtube.com/watch?v=htznIeWKgg8)
 
   Topics Cover in Crash Course
 
-    - 
+    - Word VS Keyword
+    - var const let
+      -- The Diffrence
+      -- Window Object
+      -- Browser context api
+      -- Stack
+      -- Heap memory
+      -- Execution Context
+      -- lexical enviroment
+    - Hoisting
+    - Types in JS
+      -- How to copy reference values
+    - conditionals
+    - if else else-if
+      -- truthy vs falsy
+      -- switch
 
 ## Object-Oriented Principles
 
